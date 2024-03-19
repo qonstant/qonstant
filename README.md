@@ -1,4 +1,4 @@
-<img src="https://media.istockphoto.com/id/539244598/photo/matrix-background-with-the-green-numbers.jpg?s=612x612&w=0&k=20&c=VcygQJc2OiCkZt2Nb02fCSvcTKPC27bBOs7vo6HFWpk=" width="100%"><br>
+<img src="https://repository-images.githubusercontent.com/245572380/df273280-6199-11ea-8094-2ed33e74c34f" width="100%"><br>
 
 <h1 align="center">Hi 👋, I'm Rakymzhan</h1>
 <h3 align="center">A passionate hardware and backend developer from Kazakhstan</h3>
