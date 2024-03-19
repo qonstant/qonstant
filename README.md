@@ -1,7 +1,4 @@
-<div style="max-height: 200px; overflow: hidden;">
-    <img src="https://repository-images.githubusercontent.com/245572380/df273280-6199-11ea-8094-2ed33e74c34f" width="100%" height="20%">
-</div>
-<br>
+<img src="https://repository-images.githubusercontent.com/245572380/df273280-6199-11ea-8094-2ed33e74c34f" width="100%" height="10%"><br>
 
 <h1 align="center">Hi 👋, I'm Rakymzhan</h1>
 <h3 align="center">A passionate hardware and backend developer from Kazakhstan</h3>
