@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Rakymzhan</h1>
 <h3 align="center">A passionate hardware and backend developer from Kazakhstan</h3>
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently learning **AI/ML/Computer Vision**
 
 - 💬 Ask me about **Golang**
 
