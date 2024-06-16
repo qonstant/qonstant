@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AI/ML/Computer Vision**
 
-- 💬 Ask me about **Golang**
+- 💻 Golang backend developer
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qonstant" alt="qonstant" /></a> </p>
 
