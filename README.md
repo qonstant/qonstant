@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rakymzhan</h1>
 <h3 align="center">ML and Backend Developer</h3>
 
-- 💻 Golang backend developer
+- 🤖 Machine Learning Engineer
+- 🧑‍💻 Golang Backend Developer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
